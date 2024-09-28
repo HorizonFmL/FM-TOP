@@ -1,0 +1,22 @@
+{
+  "SimHubVersion": "9.4.9",
+  "Category": null,
+  "Title": "FM Tribute Overlay Project - Standalone Laptime Module",
+  "Description": "Last lap time and delta to best lap display",
+  "Author": "HorizonFmL",
+  "ScreenCount": 2.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    1
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 348.0,
+  "Height": 73.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
